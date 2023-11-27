@@ -1,0 +1,35 @@
+ 0102    Rigaku R-XAS Looper
+Ho-L2                23/11/2023 12:01 -
+Comment    :  exafstest
+Sample     :  test
+Operator   :  exafs
+core       :  Cu
+edge       :  K
+XG         :  20 kV    30 mA
+Filament   :  LaB6
+Target     :  Mo
+Io Counter :  Ar-300
+I Counter  :  SC
+Attachment :  None
+0
+0
+0
+Crystal    :  Si(400)   2d = 2.71500
+Monochro   :  omega -0.208    tilt 0.042     z 0.3
+Slits      :  DS =  4.00 mm     RS =  2.00 mm     HS = 10 mm
+RX-78         Transmission        Repetition = 1
+ 
+Block        Energy        Step/eV       Time/s
+    1          8880          10.00            1
+    2          9000           1.00            2
+ 
+ Energy(eV)    Angle      time/s       Io          I
+   8880.02    61.8936       1.00    49648.0    83788.0   -0.52333
+   8890.02    61.8164       1.00    50544.0    84934.0   -0.51903
+   8900.03    61.7392       1.00    52520.0    88992.0   -0.52735
+   8910.07    61.6621       1.00    52192.0    86283.0   -0.50270
+   8920.00    61.5860       1.00    50466.0    56860.0   -0.11929
+   8930.08    61.5089       1.00    51257.0    68313.0   -0.28725
+   8940.06    61.4328       1.00    51169.0    73084.0   -0.35648
+   8950.05    61.3568       1.00    51589.0    72393.0   -0.33880
+   8960.06    61.2808       1.00    51696.0    71152.0   -0.31944
